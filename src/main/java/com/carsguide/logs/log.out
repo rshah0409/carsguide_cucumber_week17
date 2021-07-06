@@ -1,0 +1,10 @@
+2021-07-06 22:07:66 INFO  BasePage :34 - Launching Chrome Browser 
+2021-07-06 22:07:521 INFO  HomePage :18 - mouse hover to buy and sell tab[[ChromeDriver: chrome on WINDOWS (ad6b01ab1bc69120e1259785ed4d2ec3)] -> xpath: //a[text()='buy + sell']]
+2021-07-06 22:07:888 INFO  HomePage :23 - clicking on search option[[ChromeDriver: chrome on WINDOWS (ad6b01ab1bc69120e1259785ed4d2ec3)] -> xpath: //a[text()='Search Cars']]
+2021-07-06 22:07:217 INFO  SearchPage :30 - Getting text of page title[[ChromeDriver: chrome on WINDOWS (ad6b01ab1bc69120e1259785ed4d2ec3)] -> xpath: //div[@class='heading main-heading item-ad-wrapper ']]
+2021-07-06 22:07:335 INFO  SearchPage :34 - selecting make[[ChromeDriver: chrome on WINDOWS (ad6b01ab1bc69120e1259785ed4d2ec3)] -> xpath: //select[@id='makes']]
+2021-07-06 22:07:756 INFO  SearchPage :38 - selecting model[[ChromeDriver: chrome on WINDOWS (ad6b01ab1bc69120e1259785ed4d2ec3)] -> xpath: //select[@id='models']]
+2021-07-06 22:07:81 INFO  SearchPage :43 - selecting location[[ChromeDriver: chrome on WINDOWS (ad6b01ab1bc69120e1259785ed4d2ec3)] -> xpath: //select[@id='locations']]
+2021-07-06 22:07:324 INFO  SearchPage :47 - selecting price[[ChromeDriver: chrome on WINDOWS (ad6b01ab1bc69120e1259785ed4d2ec3)] -> xpath: //select[@id='priceTo']]
+2021-07-06 22:07:565 INFO  SearchPage :51 - clicking on find my car button[[ChromeDriver: chrome on WINDOWS (ad6b01ab1bc69120e1259785ed4d2ec3)] -> xpath: //input[@id='search-submit']]
+2021-07-06 22:07:244 INFO  SearchPage :55 - get text from make title[[ChromeDriver: chrome on WINDOWS (ad6b01ab1bc69120e1259785ed4d2ec3)] -> xpath: //h1[@class='listing-search-title']]
